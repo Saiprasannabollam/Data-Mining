@@ -5,8 +5,9 @@
 2.  Lab[02]: Data Visualization
 Generate statistical summaries of the dataset.
 Create visualizations using Matplotlib and Seaborn (e.g., histograms, scatter plots, heatmaps).
-https://github.com/Saiprasannabollam/Data-Mining/blob/main/lab02_DM.ipynb       
+[https://github.com/Saiprasannabollam/Data-Mining/blob/main/lab02_DM.ipynb]     
  3. Lab[03]:Exploratory Data Analysis (EDA)
 Identify correlations between variables.
 Use Pandas profiling or custom scripts for EDA.
 Analyze trends, patterns, and outliers in the dataset.
+[https://github.com/Saiprasannabollam/Data-Mining/blob/main/Lab3_DM.ipynb]
